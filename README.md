@@ -9,7 +9,7 @@ This MATLAB code is designed for implementing a Convolutional Neural Network (CN
 
 ## Usage
 1. Ensure that X.mat and LB.mat files are present in the same directory as the script.
-2. Run the script in MATLAB.
+2. Run the main_Unsupervised.m script in MATLAB.
 
 ## Description
 1. **Data Preprocessing**: The code loads image data and labels, normalizes the images, and reshapes them for model input.
