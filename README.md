@@ -35,7 +35,7 @@ The script outputs the following evaluation metrics:
 - Sumia Al-Obaidi/University of Tabriz (https://github.com/sumiahussein)
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL License.
 
 
 A main dataset can be downloaded from http://dde.binghamton.edu/download/ImageDB/BOSSbase_1.01.zip
